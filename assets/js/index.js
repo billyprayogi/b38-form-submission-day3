@@ -13,13 +13,13 @@ else if (!email) {
     return alert ("email tidak boleh kososng");
 }
 if (!phone) {
-   return alert ("number tidak boleh kosong");
+   return alert ("phone number tidak boleh kosong");
 }
 else if (!subject) {
-   return alert ("number tidak boleh kosong");
+   return alert ("subject tidak boleh kosong");
 }
 else if (!message) {
-   return alert ("number tidak boleh kosong");
+   return alert ("message tidak boleh kosong");
 }
 
 
